@@ -17,3 +17,24 @@
    * [Learning Python GUI Programming Part 3](http://mede.life/NdjW8)
    * [Learning Python GUI Programming Part 4](http://mede.life/svVWh)
    * [Learning Python GUI Programming Part 5](http://mede.life/mQUNn)
+
+ * **Selenium WebDriver With Python 3.x – Novice To Ninja**
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 1](http://mede.life/L1LOs)
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 2](http://mede.life/pEb5K)
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 3](http://mede.life/ofscX)
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 4](http://mede.life/Em929)
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 5](http://mede.life/TRJcg)
+   * [Selenium WebDriver With Python 3.x – Novice To Ninja Part 6](http://mede.life/CFxuE)
+   
+ * **Learning Python Video Training**
+   * [Learning Python Video Training Part 1](http://mede.life/0D8ll)
+   * [Learning Python Video Training Part 2](http://mede.life/Mh9AH)
+
+ * **Complete Python Web Course: Build 8 Python Web Apps**
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 1](http://mede.life/gjB5J)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 2](http://mede.life/76LeK)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 3](http://mede.life/tZ67f)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 4](http://mede.life/plZEo)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 5](http://mede.life/qVxYu)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 6](http://mede.life/Dxgrd)
+   * [Complete Python Web Course: Build 8 Python Web Apps Part 7](http://mede.life/dwUwZ)
