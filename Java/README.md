@@ -59,3 +59,7 @@
    * [Complete Java Masterclass Part 17](http://mede.life/H8IlI)
    * [Complete Java Masterclass Part 18](http://mede.life/2HIXM)
    * [Complete Java Masterclass Part 19](http://mede.life/iu1oX)
+
+ * **Android Development Essential Training: Design a User Interface**
+   * [Android Development Essential Training: Design a User Interface Part 1](http://mede.life/i5jnI)
+   * [Android Development Essential Training: Design a User Interface Part 2](http://mede.life/5pl6b)
