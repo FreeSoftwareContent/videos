@@ -63,3 +63,18 @@
  * **Android Development Essential Training: Design a User Interface**
    * [Android Development Essential Training: Design a User Interface Part 1](http://mede.life/i5jnI)
    * [Android Development Essential Training: Design a User Interface Part 2](http://mede.life/5pl6b)
+
+ * **Android Development Essential Training: Distributing Apps**
+   * [Android Development Essential Training: Distributing Apps Part 1](http://1ink.cc/4W6Lg)
+   * [Android Development Essential Training: Distributing Apps Part 2](http://1ink.cc/aRHgu)
+   
+ * **Moving to Java 9: Better Design and Simpler Code**
+   * [Moving to Java 9: Better Design and Simpler Code Part 1](http://1ink.cc/TJqQf)
+   * [Moving to Java 9: Better Design and Simpler Code Part 2](http://1ink.cc/XHKWy)
+   * [Moving to Java 9: Better Design and Simpler Code Part 3](http://1ink.cc/YW85a)
+   * [Moving to Java 9: Better Design and Simpler Code Part 4](http://1ink.cc/SmJXX)
+   * [Moving to Java 9: Better Design and Simpler Code Part 5](http://1ink.cc/3Wtte)
+   
+ * **Android Development: Concurrent Programming**
+   * [Android Development: Concurrent Programming Part 1](http://1ink.cc/l8Uux)
+   * [Android Development: Concurrent Programming Part 2](http://1ink.cc/5HnZ8)
