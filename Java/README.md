@@ -22,16 +22,7 @@
    * [Master Practical Java 9 Development Part 3](http://mede.life/NnOMA)
    * [Master Practical Java 9 Development Part 4](http://mede.life/S4PZo)
    * [Master Practical Java 9 Development Part 5](http://mede.life/7cOf4)
-
- * **Android O & Java – Mobile App Development | Beginning to End**
-   * [Android O & Java – Mobile App Development | Beginning to End Part 1](http://mede.life/vhUe1)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 2](http://mede.life/Ab9XN)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 3](http://mede.life/MLqQE)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 4](http://mede.life/gUXZB)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 5](http://mede.life/uR2oE)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 6](http://mede.life/i0BCM)
-   * [Android O & Java – Mobile App Development | Beginning to End Part 7](http://mede.life/QjQte)
- 
+   
  * **Spring Framework Master Class – Beginner to Expert**
    * [Spring Framework Master Class – Beginner to Expert Part 1](http://mede.life/7E3n6)
    * [Spring Framework Master Class – Beginner to Expert Part 2](http://mede.life/8T9N8)
@@ -59,6 +50,29 @@
    * [Complete Java Masterclass Part 17](http://mede.life/H8IlI)
    * [Complete Java Masterclass Part 18](http://mede.life/2HIXM)
    * [Complete Java Masterclass Part 19](http://mede.life/iu1oX)
+   
+* **Moving to Java 9: Better Design and Simpler Code**
+   * [Moving to Java 9: Better Design and Simpler Code Part 1](http://1ink.cc/TJqQf)
+   * [Moving to Java 9: Better Design and Simpler Code Part 2](http://1ink.cc/XHKWy)
+   * [Moving to Java 9: Better Design and Simpler Code Part 3](http://1ink.cc/YW85a)
+   * [Moving to Java 9: Better Design and Simpler Code Part 4](http://1ink.cc/SmJXX)
+   * [Moving to Java 9: Better Design and Simpler Code Part 5](http://1ink.cc/3Wtte)
+ 
+ * **The Complete Java Developer Course**
+   * [The Complete Java Developer Course Part 1](http://1ink.cc/W9vIQ)
+   * [The Complete Java Developer Course Part 2](http://1ink.cc/ey2vh)
+   * [The Complete Java Developer Course Part 3](http://1ink.cc/LMKkS)
+
+## Android
+
+ * **Android O & Java – Mobile App Development | Beginning to End**
+   * [Android O & Java – Mobile App Development | Beginning to End Part 1](http://mede.life/vhUe1)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 2](http://mede.life/Ab9XN)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 3](http://mede.life/MLqQE)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 4](http://mede.life/gUXZB)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 5](http://mede.life/uR2oE)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 6](http://mede.life/i0BCM)
+   * [Android O & Java – Mobile App Development | Beginning to End Part 7](http://mede.life/QjQte)
 
  * **Android Development Essential Training: Design a User Interface**
    * [Android Development Essential Training: Design a User Interface Part 1](http://mede.life/i5jnI)
@@ -68,20 +82,6 @@
    * [Android Development Essential Training: Distributing Apps Part 1](http://1ink.cc/4W6Lg)
    * [Android Development Essential Training: Distributing Apps Part 2](http://1ink.cc/aRHgu)
    
- * **Moving to Java 9: Better Design and Simpler Code**
-   * [Moving to Java 9: Better Design and Simpler Code Part 1](http://1ink.cc/TJqQf)
-   * [Moving to Java 9: Better Design and Simpler Code Part 2](http://1ink.cc/XHKWy)
-   * [Moving to Java 9: Better Design and Simpler Code Part 3](http://1ink.cc/YW85a)
-   * [Moving to Java 9: Better Design and Simpler Code Part 4](http://1ink.cc/SmJXX)
-   * [Moving to Java 9: Better Design and Simpler Code Part 5](http://1ink.cc/3Wtte)
-   
  * **Android Development: Concurrent Programming**
    * [Android Development: Concurrent Programming Part 1](http://1ink.cc/l8Uux)
    * [Android Development: Concurrent Programming Part 2](http://1ink.cc/5HnZ8)
-
- * **The Complete Java Developer Course**
-   * [The Complete Java Developer Course Part 1](http://1ink.cc/W9vIQ)
-   * [The Complete Java Developer Course Part 2](http://1ink.cc/ey2vh)
-   * [The Complete Java Developer Course Part 3](http://1ink.cc/LMKkS)
-
- 
