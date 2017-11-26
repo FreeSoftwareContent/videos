@@ -43,3 +43,13 @@
    * [The Complete Python Developer Course Part 1](http://1ink.cc/XGzFE)
    * [The Complete Python Developer Course Part 2](http://1ink.cc/XqqEC)
    * [The Complete Python Developer Course Part 3](http://1ink.cc/K4Ynj)
+ 
+ * **Python GUI Programming Recipes using PyQt5**
+   * [Python GUI Programming Recipes using PyQt5 Part 1](http://1ink.cc/39svv)
+   * [Python GUI Programming Recipes using PyQt5 Part 2](http://1ink.cc/UNLlC)
+   
+ * **Refactoring in Python: Improving Your Code**
+   * [Refactoring in Python: Improving Your Code Part 1](http://1ink.cc/uzm68)
+   * [Refactoring in Python: Improving Your Code Part 2](http://1ink.cc/GEQd2)
+   * [Refactoring in Python: Improving Your Code Part 3](http://1ink.cc/b4tIJ)
+   * [Refactoring in Python: Improving Your Code Part 4](http://1ink.cc/v8vtE)
