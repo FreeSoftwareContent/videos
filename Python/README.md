@@ -38,3 +38,8 @@
    * [Complete Python Web Course: Build 8 Python Web Apps Part 5](http://mede.life/qVxYu)
    * [Complete Python Web Course: Build 8 Python Web Apps Part 6](http://mede.life/Dxgrd)
    * [Complete Python Web Course: Build 8 Python Web Apps Part 7](http://mede.life/dwUwZ)
+   
+ * **The Complete Python Developer Course**
+   * [The Complete Python Developer Course Part 1](http://1ink.cc/XGzFE)
+   * [The Complete Python Developer Course Part 2](http://1ink.cc/XqqEC)
+   * [The Complete Python Developer Course Part 3](http://1ink.cc/K4Ynj)
