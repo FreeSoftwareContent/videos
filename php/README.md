@@ -30,3 +30,6 @@
    * [PHP: Object-Oriented Programming Part 1](http://mede.life/zeTCE)
    * [PHP: Object-Oriented Programming Part 2](http://mede.life/XTudg)
   
+ * **Advanced PHP**
+   * [Advanced PHP Part 1](http://mede.life/QmRRr)
+   * [Advanced PHP Part 2](http://mede.life/PMAHJ)
