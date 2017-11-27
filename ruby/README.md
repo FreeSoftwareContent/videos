@@ -1,5 +1,3 @@
-# Ruby
-
 | Courses |  Links                                                        |
 | ------- | ------------------------------------------------------------- |
 | **Expert Ruby on Rails 5**  | [Part 1](http://1ink.cc/Gelk3) [Part 2](http://1ink.cc/3mFjg) |
