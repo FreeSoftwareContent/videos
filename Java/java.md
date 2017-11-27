@@ -91,3 +91,14 @@
 * **Java Web Services Part 2**
    * [Java Web Services P2. Part 1](http://1ink.cc/IpeHV)
    * [Java Web Services P2. Part 2](http://1ink.cc/KYwtj)
+
+* **Java 9 Performance Optimization and Modularization**
+   * [Java 9 Performance Optimization and Modularization Part 1](http://1ink.cc/JA6hw)
+   * [Java 9 Performance Optimization and Modularization Part 2](http://1ink.cc/MPpz1)
+
+* **Advanced Data Structures and Algorithms in Java 9**
+   * [Advanced Data Structures and Algorithms in Java 9 Part 1](http://1ink.cc/0iSKv)
+   * [Advanced Data Structures and Algorithms in Java 9 Part 2](http://1ink.cc/vEnNy)
+   * [Advanced Data Structures and Algorithms in Java 9 Part 3](http://1ink.cc/4jAYh)
+
+
